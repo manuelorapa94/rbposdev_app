@@ -1,0 +1,6 @@
+# ignore .DS_Store - contains macOS specific folder attributes
+.DS_Store
+/scratch
+/authdata
+authdata/acces_token
+node_modules
